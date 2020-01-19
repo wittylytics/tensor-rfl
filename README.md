@@ -39,3 +39,24 @@ Important Links
 * [Deep Learning Keras-Tensorflow tutorial](https://github.com/leriomaggio/deep-learning-keras-tensorflow)
 * [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples)
 * [DL with Keras - Tensorflow](https://github.com/leriomaggio/deep-learning-keras-tensorflow.git)
+
+Future Readings
+=================
+
+- Fix this Lack of parallelization of LSTM
+- Learning Long Term Dependency remains open
+- [Attention concept](https://arxiv.org/abs/1409.0473)
+- [Transformer NN Architecture](https://arxiv.org/abs/1706.03762)
+- [BERT](https://arxiv.org/abs/1810.04805)
+- Hierarchical Temporal Memory (HTM)
+- Cascade Forests
+- Capsule Networks (CapsNets),
+
+[Advances in NLP, Report of December 25 2019](https://towardsdatascience.com/recent-advancements-in-nlp-2-2-df2ee75e189)
+
+Resources
+* [Visualization of RNN, Attention, and others](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
+* [Building Transformers from scratch](https://github.com/keitakurita/Practical_NLP_in_PyTorch/blob/master/deep_dives/transformer_from_scratch.ipynb)
+* [Library for using various transformers architectures](https://github.com/huggingface/transformers)
+* [cheat sheets for AI, NN, ML, DL,, Big Data](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)
+* [more cheat sheets](https://www.datasciencecentral.com/profiles/blogs/large-collection-of-neural-networks-ml-numpy-pandas-matplotlib-sc)
