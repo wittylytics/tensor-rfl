@@ -60,3 +60,4 @@ Resources
 * [Library for using various transformers architectures](https://github.com/huggingface/transformers)
 * [cheat sheets for AI, NN, ML, DL,, Big Data](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)
 * [more cheat sheets](https://www.datasciencecentral.com/profiles/blogs/large-collection-of-neural-networks-ml-numpy-pandas-matplotlib-sc)
+* [sorice NN notebook collection](https://github.com/sorice/tensorflow1.13)

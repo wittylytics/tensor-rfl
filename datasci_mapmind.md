@@ -28,24 +28,17 @@ Contain the basics on ML. The second part is a broad description of ML pipeline.
 - [__Deploying Models into Apps__](./04_ML/2015_Sebastian_Raschka-Py_ML.pdf)
 - Monitoring Models (Feedback)
 
-## Basik Knowledge
+## [Basic Knowledge](./mapmind/basicknowledge.html)
 
-<p><img align='left' src="./imgs/DataSci_Skills_Moscu_Metro.png" alt='Tensorflow logo' height="200" width="700"></p><br clear='left'>
+## [DataSci Skills](./mapmind/skills.html)
 
-## Baselines Methods / Important Knowledge
-* About Machine Learning
-    1. _Supervised_ __Classification__
-    2. _Semi-Supervised_ [__Reinforcement Learning__](./05_Deep_Learning/2018_Reinforcement_Learning.pdf)
-    3. _Unsupervised_ __Clustering__, __Anomaly detection__
-* About Software Architecture
-    1. Microservices
-* Any other?
-
-
-## Resources
+<p><img align='left' src="./imgs/DataSci_Skills_Moscu_Metro.png" alt='Tensorflow logo' height="768" width="1024"></p><br clear='left'>
 
 ### [Corpus](./mapmind/corpus.html)
+
 ### [Models]()
+
+### [Amazon Cloud Free Services](https://aws.amazon.com/free/free-tier/)
 
 ## Applications - Products
 - Text Classifier
@@ -67,46 +60,36 @@ Contain the basics on ML. The second part is a broad description of ML pipeline.
 - Stanford library y su api de python (inside NLTK)
 
 ### Data Analysis
+
+- Amazon SageMaker
+- GCloud ML, Bigquery ML
 - Sklearn
 - spark.ml
 - Scipy
-
-### Visualization with _Altair_
-_notebook collection_
-[Altair](../pyVideosData/06_Visualization/SCI_PLOT_Altair_2018_PyCon-Jake_VanderPlas-Exploratory_Data_Visualization_with_Vega_Vega-Lite_and_Altair/notebooks)
-<p><img align='left' src="./imgs/altair-gallery.png" alt='Tensorflow logo' height="200" width="700"></p><br clear='left'>
+- Pandas
 
 ### Deep Learning
 
 * [Tensorflow](./04_ML/2017_Hands_on_ML/2017_Hands_On_ML_with_Sklearn_and_Tf.pdf)
-* pandas.visualization
+* Keras High Level API
 * __Model Visualization__: Tensorboard
 
-### Optimization
+# Visualization with _Altair_
+_notebook collection_
+[Altair](/media/DATA/PyData/pyVideosData/06_Visualization/SCI_PLOT_Altair_2018_PyCon-Jake_VanderPlas-Exploratory_Data_Visualization_with_Vega_Vega-Lite_and_Altair/notebooks)
+<p><img align='left' src="./imgs/altair-gallery.png" alt='Tensorflow logo' height="200" width="700"></p><br clear='left'>
 
-- Usar cython
-- GPU con PyCuda
-- Usar Fortran
-- Ver paralelización con Apache Spark
+## Other Techs
 
-### Deploying & Scaling Services
+| Optimization      | Scaling Services       | UI      |
+| :---------------- | :--------------------: | ------: |
+| cython            | AWS                    | VUE     |
+| PyCuda            | Apache Spark           |         |
+| Fortran           | Hadoop                 |         |
+| Apache Spark      | GCloud                 |         |
+| __ . __ . __ . __ | __ . __ . __ . __ . __ | __ . __ |
 
-* AWS
-* Apache Spark
-* Hadoop
-
-### Web UI:
-
-* VUE
-
-## Pipeline Introspection
-
-- Models Deployment:
-    1. [Model Deployment as a Service](./04_ML/2018_Practical_ML_with_Py.pdf)
-- Monitoring
-    1. [Strategies to managing model robustness](./04_ML/2016_Advanced_ML.pdf)
-
-## Standards
+# Standards & Protocols
 
 #### DataTypes
 
@@ -116,8 +99,14 @@ _notebook collection_
 - [HDF5](./01_Numpy/2019_Numerical_Python_2ndE.pdf)
 - pandas.DataFrame
 
-#### Links
+#### Interesting Links/Readings
+
+- Models Deployment:
+    1. [Model Deployment as a Service](./04_ML/2018_Practical_ML_with_Py.pdf)
+- Monitoring
+    1. [Strategies to managing model robustness](./04_ML/2016_Advanced_ML.pdf)
 
 - [Google DeepMind Team](https://deepmind.com/)
 - [Kaggle Blog](http://blog.kaggle.com) especialized on ML topics
 - About [Netflix Recommendation System Algorithm](http://techblog.netflix.com/2012/04/netflix-recommendations-beyond-5-stars.html)
+- How to find [DataSci Influencers](https://app.cronycle.com/discovery/topics/Data%20Science?activeTab=influencers)
