@@ -1,5 +1,5 @@
 DataSci Skills
-****************
+******************
 
 * Agile
 * Github
@@ -17,7 +17,7 @@ DataSci Skills
 * Machine Learning (algorithms, modeling, evaluation, optimization, etc).
 
 	- [Course of Jeremy Howard](https://twitter.com/jeremyphoward)
-	
+
 * Deep Learning, Reinforcement Learning, Natural Language Processing, Computer Vision, …
 
 	- [DL Coursera](https://www.coursera.org/specializations/deep-learning)
@@ -27,7 +27,7 @@ DataSci Skills
 * Formulation of questions and preparation/testing of hypotheses.
 * Domain knowledge.
 * Prepare for job interviews
-	
+
 	What experience do you have in real projects?Which SQL query would
     you write to extract this information from that database? Do you
     know Docker and Kubernetes? What about Spark? Have you administered
@@ -52,15 +52,15 @@ internet web articles.
 
 # TODO: extract the skills from this URLS
 
-https://www.kdnuggets.com/2020/01/resources-become-data-engineer.html
-https://www.kdnuggets.com/2020/01/top-5-data-science-skills-2020.html
-wwww.hackerrank.com
-https://www.kdnuggets.com/2019/12/most-demand-tech-skills-data-scientists.html
-https://medium.com/@jeffhale/the-most-in-demand-skills-for-data-scientists-4a4a8db896db?source=email-8029e04d384e-1571997772292-digest.weekly------0-59------------------53441023_307a_4474_bebf_2fd09612ffeb-1-----&sectionName=top
-https://www.kdnuggets.com/2019/10/growing-need-skills-data-science.html
-https://www.kdnuggets.com/2019/09/core-hot-data-science-skills.html
-https://www.kdnuggets.com/2020/01/psu-fast-track-data-science-career.html
-https://www.kdnuggets.com/2019/12/4-ways-not-hired-data-scientist.html
+* https://www.kdnuggets.com/2020/01/resources-become-data-engineer.html
+* https://www.kdnuggets.com/2020/01/top-5-data-science-skills-2020.html
+* wwww.hackerrank.com
+* https://www.kdnuggets.com/2019/12/most-demand-tech-skills-data-scientists.html
+* https://medium.com/@jeffhale/the-most-in-demand-skills-for-data-scientists-4a4a8db896db?source=email-8029e04d384e-1571997772292-digest.weekly------0-59------------------53441023_307a_4474_bebf_2fd09612ffeb-1-----&sectionName=top
+* https://www.kdnuggets.com/2019/10/growing-need-skills-data-science.html
+* https://www.kdnuggets.com/2019/09/core-hot-data-science-skills.html
+* https://www.kdnuggets.com/2020/01/psu-fast-track-data-science-career.html
+* https://www.kdnuggets.com/2019/12/4-ways-not-hired-data-scientist.html
 
 Trends
 ==========
@@ -93,4 +93,5 @@ Rerefences
 
 * https://www.kdnuggets.com/2020/01/wanna-be-data-scientist.html
 * https://www.kdnuggets.com/2020/01/top-5-data-science-skills-2020.html
+* https://www.kdnuggets.com/2020/01/data-scientist-job-dream-company.html
 
