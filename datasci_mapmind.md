@@ -47,47 +47,16 @@ Contain the basics on ML. The second part is a broad description of ML pipeline.
     2. [Afinity Analysis: Apriori algthm](/media/DATA/PyData/pyBooksData/04_ML/2015_Learning_Data_Mining/2015_Learning_Data_Mining_with_Py.pdf)
     3. [The million Song Dataset Example](/media/DATA/PyData/pyBooksData/04_ML/2018_Practical_ML_with_Py.pdf)
 
-# Technologies
-
-### Data Base Management System
-* mariadb/mysql
-* Mongodb
-* Clickhouse
-
-### Text Wrangling
-- Spacy & sus modelos
-- lib propia: preprocess (depend on scipy, nltk & sklearn)
-- Stanford library y su api de python (inside NLTK)
-
-### Data Analysis
-
-- Amazon SageMaker
-- GCloud ML, Bigquery ML
-- Sklearn
-- spark.ml
-- Scipy
-- Pandas
-
-### Deep Learning
-
-* [Tensorflow](/media/DATA/PyData/myBooksData/04_ML/2017_Hands_on_ML/2017_Hands_On_ML_with_Sklearn_and_Tf.pdf)
-* Keras High Level API
-* __Model Visualization__: Tensorboard
+## [Technologies](.mapmind/techs.html)
 
 # Visualization with _Altair_
 _notebook collection_
 [Altair](/media/DATA/PyData/pyVideosData/06_Visualization/SCI_PLOT_Altair_2018_PyCon-Jake_VanderPlas-Exploratory_Data_Visualization_with_Vega_Vega-Lite_and_Altair/notebooks)
 <p><img align='left' src="./imgs/altair-gallery.png" alt='Tensorflow logo' height="200" width="700"></p><br clear='left'>
 
-## Other Techs
+## [Events](.mapmind/events.html)
 
-| Optimization      | Scaling Services       | UI      |
-| :---------------- | :--------------------: | ------: |
-| cython            | AWS                    | VUE     |
-| PyCuda            | Apache Spark           |         |
-| Fortran           | Hadoop                 |         |
-| Apache Spark      | GCloud                 |         |
-| __ . __ . __ . __ | __ . __ . __ . __ . __ | __ . __ |
+## [Events](.mapmind/certifications.html)
 
 # Standards & Protocols
 

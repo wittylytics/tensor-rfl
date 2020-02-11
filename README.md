@@ -51,8 +51,12 @@ Future Readings
 - Hierarchical Temporal Memory (HTM)
 - Cascade Forests
 - Capsule Networks (CapsNets),
-
-[Advances in NLP, Report of December 25 2019](https://towardsdatascience.com/recent-advancements-in-nlp-2-2-df2ee75e189)
+- [Transfer Learning](https://ruder.io/transfer-learning/): he idea that the knowledge accumulated in a model trained for a
+specific task—say, identifying flowers in a photo—can be transferred to
+another model to assist in making predictions for a different, related
+task
+- [Radioactive Data](https://ai.facebook.com/blog/using-radioactive-data-to-detect-if-a-data-set-was-used-for-training/)
+- [Advances in NLP, Report of December 25 2019](https://towardsdatascience.com/recent-advancements-in-nlp-2-2-df2ee75e189)
 
 Resources
 * [Visualization of RNN, Attention, and others](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)

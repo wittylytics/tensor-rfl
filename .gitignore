@@ -1,0 +1,16 @@
+__pycache__/
+
+*.ipynb_checkpoints
+*.srctrl*
+build
+codebuilder.egg*
+dist
+source/
+*.whl
+*.egg-info*/
+.vscode/
+*-env/
+html/
+/tests/*draft
+*draft
+articles/
