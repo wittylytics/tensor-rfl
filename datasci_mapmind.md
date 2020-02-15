@@ -64,6 +64,7 @@ _notebook collection_
 
 - Apache Parquet: A columnar data format.
 - Apache Arrow: In memory columnar data format
+- Graph DataBase Formats
 - CSV
 - [HDF5](/media/DATA/PyData/pyBooksData/01_Numpy/2019_Numerical_Python_2ndE.pdf)
 - pandas.DataFrame

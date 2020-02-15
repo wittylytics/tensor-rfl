@@ -1,0 +1,18 @@
+#better config and install
+wheel
+
+#Notebooks
+jupyterlab
+
+#Visualization
+altair
+vega3
+vega_datasets
+
+#Machine Learning
+numpy
+pandas
+sklearn
+
+#Deep Learning
+tensorflow==1.13.1
