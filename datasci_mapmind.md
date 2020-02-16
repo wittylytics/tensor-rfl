@@ -58,6 +58,8 @@ _notebook collection_
 
 ## [Events](.mapmind/certifications.html)
 
+## [Machine Learning Glossary by Example](./mapmind/ml_Gglossary_by_example.md), based on Google ML Glossary
+
 # Standards & Protocols
 
 #### DataTypes
