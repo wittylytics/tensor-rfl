@@ -1,5 +1,6 @@
 #better config and install
 wheel
+Pillow
 
 #Notebooks
 jupyterlab
@@ -8,6 +9,7 @@ jupyterlab
 altair
 vega3
 vega_datasets
+matplotlib
 
 #Machine Learning
 numpy
