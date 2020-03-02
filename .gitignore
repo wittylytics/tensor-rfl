@@ -14,3 +14,4 @@ html/
 /tests/*draft
 *draft
 articles/
+*logs

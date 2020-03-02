@@ -1,6 +1,9 @@
 #better config and install
 wheel
 Pillow
+six==1.14.0
+h5py==2.10.0
+astor
 
 #Notebooks
 jupyterlab
@@ -8,7 +11,7 @@ jupyterlab
 #Visualization
 altair
 vega3
-vega_datasets
+vega-datasets==0.7.0
 matplotlib
 
 #Machine Learning
@@ -17,4 +20,6 @@ pandas
 sklearn
 
 #Deep Learning
-tensorflow==1.13.1
+tensorflow==2.0.0
+google-pasta>=0.1.6
+
