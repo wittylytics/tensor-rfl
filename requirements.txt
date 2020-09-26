@@ -20,6 +20,6 @@ pandas
 sklearn
 
 #Deep Learning
-tensorflow==2.0.0
+tensorflow==2.0.3
 google-pasta>=0.1.6
 
